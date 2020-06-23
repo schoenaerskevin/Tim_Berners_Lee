@@ -1,0 +1,141 @@
+body
+{
+    font-family: 'open sans';
+    background-color: lightgrey;
+}
+
+header
+{
+    text-align: center;
+    margin: 20px auto 20px auto;
+    padding: 20px auto 20px auto;
+    background-color: ivory;
+    width:50%
+}
+
+.tim
+{
+    border-radius: 50%;
+    height 150px;
+    width: 150px;
+}
+
+.timb
+{
+    color: red;
+    font-size: 32px;
+}
+
+button
+{
+    background-color: red;
+    border: 3px;
+    text-align: center;
+    font-size: 23px;
+    width:200px;
+    height:45px;
+}
+
+.see
+{
+    color:whitesmoke;
+}
+
+.logo
+{
+    text-align: center;
+    margin: 20px auto 20px auto;
+    padding: 20px auto 20px auto;
+    background-color: ivory;
+    width:50%;  
+    height:250px;
+    
+    display:grid;
+    grid-template-columns: 33% 33% 33%;
+   
+
+    
+}
+
+.fb
+{
+    height: 64px;
+    width: 64px;
+    grid-column:1;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    padding:42px;
+    padding-top:93px;
+}
+
+.twitter
+{
+    height: 64px;
+    width: 64px;
+    grid-column:1;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    padding:42px;
+    padding-top:93px;
+}
+
+.lk
+{
+    height: 64px;
+    width: 64px;
+    grid-column:1;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    padding:42px;
+    padding-top:93px;
+}
+
+.bis
+{
+    text-align: center;
+    margin: 20px auto 20px auto;
+    padding: 20px auto 20px auto;
+    background-color: ivory;
+    width:50%;  
+}
+
+.his
+{
+    text-align:center;
+    margin: 20px auto 20px auto;
+      
+}
+
+.end
+{
+    text-align: center;
+    margin: 20px auto 20px auto;
+    padding: 20px auto 20px auto;
+    background-color: ivory;
+    width:50%;  
+    height:auto;
+    margin:15px ;
+    display: grid;
+    grid-template-columns:  160px auto 
+}
+
+.space
+{
+    width :150px;
+    height:auto;
+}
+
+.hulot
+{
+    width :150px;
+    height:auto;
+}
+
+.alien
+{
+    width :150px;
+    height:auto;
+}
